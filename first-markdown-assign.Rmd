@@ -4,7 +4,10 @@ author: "Benedicto, Caparas, Coloma, Coros, Mendoza"
 date: '2022-06-21'
 output: html_document
 ---
-
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+---
 ## Data: Why study and analyze?
 
 Data is extremely valuable. For centuries, oil was considered as one of the world's most valuable resources, but in today's "data economy", data could potentially be more valuable because, like oil, it can be refined into an essential commodity [1]. It is the key to understanding the modern world and the myriad of factors making contemporary society possible. The world today is more complex, requiring us to be able to digest the many things happening into useful information. This translates to gathering available data and analyzing it to reach the best possible understanding of how and why things are.
