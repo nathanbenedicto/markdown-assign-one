@@ -32,6 +32,10 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Data: Application
 
+<img src="https://imagevars.gulfnews.com/2020/03/26/India-lockdown_17117920c66_medium.jpg" width="50%" height="50%"/>
+
+*A picture of India undergoing Covid lockdown*
+
 After knowing the importance of studying and analyzing data, here are five (5) implications and/or applications wherein data science is used:
 
 -   Advertising done for specific target audiences is one application of data science that companies make use of, notably Facebook, that may affect our everyday decisions, such as buying a product "that you didn't know you wanted yet". Despite the controversy surrounding Facebook and their views and actions on their user's data and privacy [9], they make use of your data such as your interests and hobbies in order for them to analyze and decide which kind of advertisements would be best for you [10]. This would allow Facebook to retain and garner more sponsors that would make use of their platform in order to advertise their product or service, as using this method may be more effective than conventional methods of advertising.
@@ -46,9 +50,9 @@ After knowing the importance of studying and analyzing data, here are five (5) i
 
 ## Data: Other Topics
 
-<img src="https://imagevars.gulfnews.com/2020/03/26/India-lockdown_17117920c66_medium.jpg" width="50%" height="50%"/>
+<img src="https://imgcdnblog.carmudi.com.ph/carmudi-ph/wp-content/uploads/2019/09/20185848/Cotabato-Marbel-Road.jpg?resize=500x333" width="50%" height="50%"/>
 
-*A picture of India undergoing Covid lockdown*
+*Road widening project in Cotabato*
 
 > One data science topic I would like to pursue would be about gas-powered and electric-powered cars, in regards to comparing their availability and price in the Philippines between various manufacturers, as well as comparing the amount of carbon footprint each kind emits. Data regarding these aspects of gas and electric cars are available from studies and articles that tackle and talk about these, although most of these are based in other countries such as in the United States [20] [21] [22] [23] [24]. A statistical method that may prove useful would be using a correlation analysis between these aspects, most especially finding a correlation between the availability of electric cars and how much emissions are being released in manufacturing and using these, in comparison to gas powered cars. I would say that consumers, companies who sell these and everyone who is mindful of our environment may benefit from this study
 
