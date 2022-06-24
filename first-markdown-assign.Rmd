@@ -1,7 +1,7 @@
 ---
 title: "First Markdown Assignment"
 author: "Nathaniel Benedicto, Maxine Van Caparas, Kyle Aaron Coloma, Marco Luis Coros, Derrik Kyler Mendoza"
-date: '2022-06-24'
+date: 'June 24, 2022'
 output: 
   html_document:
     theme: flatly
@@ -15,7 +15,13 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ------------------------------------------------------------------------
 
+<style>
+body {
+text-align: justify}
+</style> 
+
 ## Data: Why study and analyze?
+
 
 
 > **Data is extremely valuable**. For centuries, oil was considered as one of the world's most valuable resources, but in today's "data economy", data could potentially be more valuable because, like oil, it can be refined into an essential commodity [1]. It is the key to understanding the modern world and the myriad of factors making contemporary society possible. The world today is more complex, requiring us to be able to digest the many things happening into useful information. This translates to gathering available data and analyzing it to *reach the best possible understanding of how and why things are*.
@@ -28,6 +34,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 > Modern technology, namely the Internet and mobile computers, has made the gathering of data and information easier than ever before. With that being said, to choose not to study and analyze data in this time period is disadvantageous, as it prevents us from making use of widely available data that, when analyzed, can provide us with information that will better help us understand the world around us.
 
+&nbsp;
 
 ## Data: Applications
 
@@ -35,7 +42,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 <img src="https://imagevars.gulfnews.com/2020/03/26/India-lockdown_17117920c66_medium.jpg" width="100%" height="100%"/>
 
-*A picture of India undergoing Covid lockdown*
+*A photo of India amid a COVID-19 lockdown*
 
 <font size="4">
 
@@ -53,7 +60,9 @@ After knowing the importance of studying and analyzing data, here are five (5) i
 
 </font>
 
-## Data: Other Topics We'd Like to Pursue
+&nbsp;
+
+## Data: Other Pursuable Topics
 
 <img src="https://imgcdnblog.carmudi.com.ph/carmudi-ph/wp-content/uploads/2019/09/20185848/Cotabato-Marbel-Road.jpg?resize=500x333" width="100%" height="100%"/>
 
@@ -80,6 +89,7 @@ After knowing the importance of studying and analyzing data, here are five (5) i
 
 > Lastly, a topic that we would like to pursue is determining the frequency, intensity, and other characteristics of approaching tropical storms. PAGASA records and stores previous climatological data. Excel sheets of this raw data are readily available and can be requested for research or academic purposes. A statistical method that data scientists may use in studying the behaviors of typhoons is Exploratory Data Analysis (EDA) [31], which aids the discovery of patterns and checking of assumptions. In the Philippines, since we are located in the typhoon belt, we experience an average of 20 typhoons every year [32]. Typhoons, especially those of high intensity, can severely damage the Filipinos' resources like our crops, homes, and infrastructure. Nearly everyone in the Philippines can benefit from these types of studies since findings can improve our emergency response.
 
+&nbsp;
 
 ## References
 
