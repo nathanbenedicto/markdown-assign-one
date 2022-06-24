@@ -46,6 +46,10 @@ After knowing the importance of studying and analyzing data, here are five (5) i
 
 ## Data: Other Topics
 
+<img src="https://imagevars.gulfnews.com/2020/03/26/India-lockdown_17117920c66_medium.jpg" width="50%" height="50%"/>
+
+*A picture of India undergoing Covid lockdown*
+
 > One data science topic I would like to pursue would be about gas-powered and electric-powered cars, in regards to comparing their availability and price in the Philippines between various manufacturers, as well as comparing the amount of carbon footprint each kind emits. Data regarding these aspects of gas and electric cars are available from studies and articles that tackle and talk about these, although most of these are based in other countries such as in the United States [20] [21] [22] [23] [24]. A statistical method that may prove useful would be using a correlation analysis between these aspects, most especially finding a correlation between the availability of electric cars and how much emissions are being released in manufacturing and using these, in comparison to gas powered cars. I would say that consumers, companies who sell these and everyone who is mindful of our environment may benefit from this study
 
 > One data science topic that we may want to pursue would be on the analysis of flight prices from multiple flight destinatons and is dependent on the location you are going to. This flight price prediction will forecast the best time to book for your flight, in which during this time the fare would be cheap.
