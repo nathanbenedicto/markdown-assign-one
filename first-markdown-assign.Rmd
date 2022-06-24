@@ -11,7 +11,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ------------------------------------------------------------------------
 
-## Table of Contents hi
+## Table of Contents
 
 -   [Data: Why study and analyze?](##Data:%20Why%20study%20and%20analyze?)
 -   [Data: Application](##Data:%20Application)
