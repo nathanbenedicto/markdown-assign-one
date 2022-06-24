@@ -126,7 +126,7 @@ After knowing the importance of studying and analyzing data, here are five (5) i
 
 [14] H. Shahid, J. Khan, V. Cipriani, T. Sepp, B. Matharu, C. Bunce, S. Harding, D. Clayton, A. Moore, and J. Yates "Age-related macular degeneration: the importance of family history as a risk factor," Journal of Ophthalmology, 2012. [Online] Available: <https://bjo.bmj.com/content/96/3/427>. [Accessed: 22-Jun-2022]. ]
 
-[15] SciDevNet, "Data Visualisation: Contributions to evidence-based decision-making," Shor://social.shorthand.com/SciDevNet/3geA2Kw4B5c/data-visualisation-contributions-to-evidencethand. [Online]. Available: https-based-decision-making. [Accessed: 23-Jun-2022].
+[15] SciDevNet, "Data Visualisation: Contributions to evidence-based decision-making," Shorthand. [Online]. Available: <https-based-decision-making](https://social.shorthand.com/SciDevNet/3geA2Kw4B5c/data-visualisation-contributions-to-evidence-based-decision-making>. [Accessed: 23-Jun-2022].
 
 [16] A. Numanović "Data science: The next frontier for data-driven policy making?," Medium, 11-Jul-2017. [Online]. Available: [https://medium.com/\@numanovicamar/https-medium-com-numanovicamar-data-science-the-next-frontier-for-data-driven-policy-making-8abe98159748#](https://medium.com/@numanovicamar/https-medium-com-numanovicamar-data-science-the-next-frontier-for-data-driven-policy-making-8abe98159748#){.uri}:\~:text=Data%20Science%20in%20Policy%20Making,and%20more%20effective%20public%20policies. [Accessed: 23-Jun-2022].
 
