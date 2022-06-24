@@ -20,6 +20,8 @@ body {
 text-align: justify}
 </style> 
 
+<img src="https://cdn.searchenginejournal.com/wp-content/uploads/2019/12/when-to-use-data-science-in-seo-5def8e5b1c22c.png" width="100%" height="100%"/>
+
 ## Data: Why study and analyze?
 
 
@@ -28,6 +30,8 @@ text-align: justify}
 > We must study and analyze data simply because it is **ubiquitous**. Everything we do daily creates a mass of information that would be meaningless until transformed into insights [2]. It cleans and organizes raw data, which can be scattered or presented in different forms, into a clearer, and more consistent form that can be further studied, thus unlocking its potential [3]. By making sense of these large amounts of data, we can *recognize patterns of behavior* and begin to rationalize *whether certain choices are beneficial or detrimental* to a person, object, or place. With that said, we could imagine the analysis of data as a way to account for history. Studying the data of the past can help us prevent historical misfortunes from repeating themselves and create further advancements from historical milestones. In short, learning how to study and analyze data helps us in decision making. Wherein the outcome of studying and analyzing will serve as a basis. Studying and Analyzing data can help us predict the future. We are not fortune tellers, but given enough data we can find patterns that will reveal to us future outcomes [4].
 
 > For example, data analysis has been used in studies to learn about **economic development** [5]. One of these studies looked into the effects of the Mita forced labor system, how it may have caused a collapse in population, and compared it to other labor systems in the world to create inferences for possible factors a historical event could play in economic development [6]. Data in itself is not useful until it is then analyzed and studied to benefit in achieving a certain goal. Data science allows for *innovation* to occur, which would be a result of **taking advantage of current trends and analyzing future ones**, possibly even making their own trends through the innovation of products and services brought by companies or individuals [7]. This is not just applicable or restricted to businesses or industries, but also in the aspects of science and politics, where the focus of innovation may change such as for the greater good instead of for personal gain such as companies or individuals.
+
+<img src="https://www.theaestheticguide.com/sites/aestheticchannel.com/files/investment-stockbroker-risk-analysis-4PFMVTW.jpg" width="100%" height="100%"/>
 
 > Analyzing the data present in the past would allow us to understand the **"why's"** of a past phenomenon and, therefore, create implications for improved decisions based on historical data. Aside from being able to predict the possible outcome, learning how to analyze data also provides various skill sets that can be used in everyday activities. Skills such as problem solving skills and deductive reasoning skills, being able to draw conclusions from various pieces of information. Another skill would be communication skills, wherein the ability of being able to present and explain complex data to those who do not understand [8]. These skills are not only applicable in job settings, but also in other everyday challenges we face.
 
