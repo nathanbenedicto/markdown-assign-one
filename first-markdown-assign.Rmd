@@ -1,7 +1,7 @@
 ---
 title: "First Markdown Assignment"
-author: "Benedicto, Caparas, Coloma, Coros, Mendoza"
-date: '2022-06-21'
+author: "Nathaniel Benedicto, Maxine Van Caparas, Kyle Aaron Coloma, Marco Luis Coros, Derrik Kyler Mendoza"
+date: '2022-06-24'
 output: html_document
 ---
 
@@ -10,12 +10,6 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 ------------------------------------------------------------------------
-
-# First Markdown Assignment
-
-#### 24 June 2022
-
-#### Nathaniel Benedicto, Maxine Van Caparas, Kyle Aaron Coloma, Marco Luis Coros, Derrik Kyler Mendoza
 
 ### Table of Contents
 
